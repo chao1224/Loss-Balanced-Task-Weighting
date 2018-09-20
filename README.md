@@ -1,1 +1,1 @@
-# Loss-Balanced-Task-Weightning
+# Loss-Balanced Task Weighting
