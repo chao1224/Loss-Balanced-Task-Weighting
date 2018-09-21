@@ -1,0 +1,47 @@
+{
+  "layers": {
+    "hidden_units": [2000, 2000],
+    "activations": ["relu", "sigmoid", "sigmoid"],
+    "dropout": 0.25
+  },
+  "compile": {
+    "loss": "binary_crossentropy",
+    "optimizer": {
+      "option":"adam",
+      "sgd": {
+        "lr":0.003,
+        "momentum": 0.9,
+        "decay": 0.9,
+        "nestrov": true
+      },
+      "adam": {
+        "lr": 0.003,
+        "beta_1": 0.9,
+        "beta_2": 0.999,
+        "epsilon": 1e-8
+      }
+    }
+  },
+  "fitting": {
+    "nb_epoch": 100,
+    "batch_size": 1024,
+    "verbose": 0,
+    "early_stopping": {
+      "option": "precision",
+      "patience": 200
+    }
+  },
+  "batch": {
+    "is_use":true,
+    "epsilon":2e-5,
+    "mode": 0,
+    "axis":-1,
+    "momentum":0.9,
+    "weights": null,
+    "beta_init":"zero",
+    "gamma_init":"one"
+  },
+  "enrichment_factor": {
+    "ratio_list": [0.02, 0.01, 0.0015, 0.001]
+  }
+}
