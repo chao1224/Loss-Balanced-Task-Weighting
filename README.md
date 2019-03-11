@@ -35,11 +35,11 @@ PCBA has 128 binary classification tasks.
 
 ### Reference
 
-[1] Wang, Y., Bryant, S. H., Cheng, T., Wang, J., Gindulyte, A., Shoemaker, B. A., ... & Zhang, J. (2016). Pubchem bioassay: 2017 update. Nucleic acids research, 45(D1), D955-D963.
+[1] Wang, Yanli, Stephen H. Bryant, Tiejun Cheng, Jiyao Wang, Asta Gindulyte, Benjamin A. Shoemaker, Paul A. Thiessen, Siqian He, and Jian Zhang. "Pubchem bioassay: 2017 update." Nucleic acids research 45, no. D1: D955-D963, 2016.
 
-[2] Chen, Z.; Badrinarayanan, V.; Lee, C.-Y.; and Rabinovich, A. 2018. GradNorm: Gradient normalization for adaptiveloss balancing in deep multitask networks. InInternationalConference on Machine Learning, 793–802.
+[2] Chen, Zhao, Vijay Badrinarayanan, Chen-Yu Lee, and Andrew Rabinovich. "Gradnorm: Gradient normalization for adaptive loss balancing in deep multitask networks." arXiv preprint arXiv:1711.02257, 2017.
 
-[3] Liu, S. 2018. Exploration on deep drug discovery: Repre-sentation and learning. Master’s Thesis TR1854.
+[3] Liu, Shengchao. "Exploration on Deep Drug Discovery: Representation and Learning." University of Wisconsin-Madison, Master’s Thesis TR1854, 2018.
 
 ### License
 
