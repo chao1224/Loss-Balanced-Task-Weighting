@@ -2,7 +2,7 @@
 
 This repository contains the source code for the paper
 > Shengchao Liu, Yingyu Liang, Anthony Gitter. [Loss-Balanced Task Weighting to Reduce Negative Transfer in Multi-Task Learning
-](https://www.aaai.org/Papers/AAAI/2019/SA-LiuS.371.pdf). AAAI-SA 2019.
+](https://doi.org/10.1609/aaai.v33i01.33019977). AAAI-SA 2019.
 
 The figshare appendix is public [here](https://doi.org/10.6084/m9.figshare.7732964).
 
